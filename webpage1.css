@@ -1,0 +1,149 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#ads{
+	background-image: url('EthnicMarkets.jpg');
+	width:100%;
+	height:400px;
+
+	font-size: 70px;
+
+}
+#adstext{
+	position:relative;
+	top:20%;
+	left:25%;
+	font-size: 70px;
+	color:white;
+}
+.button1{
+	width:300px;
+	height:40px;
+	background-color: transparent;
+	border-color: white;
+	color: white;
+	border-radius: 20px;
+	font-size: 20px; 
+}
+.button1:hover{
+	background-color: red;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	color:white;
+	width:100%;
+	height:100px;
+	
+	
+}
+#footertext{
+	position:relative;
+	top:30%;
+	
+}
+#shop{
+	background-image: linear-gradient(45deg,blue,red);
+	width:100%;
+	height:550px;
+	font-size: 40px;
+	padding: 0px;
+	margin:0px;
+}
+#shoptext{
+	position:relative;
+	top:18%;
+	left:15%;
+	
+	color:white;
+}
+.button2{
+	width:200px;
+	height:40px;
+	background-color: transparent;
+	border-color: white;
+	color: white;
+	border-radius: 20px;
+	font-size: 20px; 
+
+}
+.button2:hover{
+	background-color: red;
+}
+img{
+	border-radius:8px;
+	
+
+}
+#image1{
+	position:relative;
+	bottom:200px;
+	left:60%;
+	margin: 0px;
+	padding:0px;
+
+}
+#box3{
+	width:100%;
+	height:500px;
+}
+#box3text{
+	position:relative;
+	top:50px;
+	left:30%;
+	
+
+}
+#boxheading{
+	text-align: center;
+
+}
+#boxheadingpara{
+	text-align: center;
+}
+#image2{
+	position:relative;
+	bottom:565px;
+	
+}
+#aricle1{
+	position:relative;
+	
+	left:0%;
+	
+}
+#aricle2{
+
+	position:relative;
+	
+	left:40%;
+	bottom:260px;
+	
+	
+}
+#box2{
+
+	background-color: yellow;
+	font-size:70px;
+	width:100%;
+	height:600px;
+	text-align: center;
+}
+#box3para{
+	text-align: center;
+	font-size: 20px;
+}
+#box2text{
+	position: relative;
+	top:25%;
+}
+header{color: red;
+	width:100%;
+	height:60px;
+	text-align: center;
+	
+	top:0px;
+	background-color: white;
+	padding-top: 20px;
+	}
